@@ -1,6 +1,10 @@
 h1 {
+<<<<<<< HEAD
 
   color: rosybrown;
   font-size: larger;
 
+=======
+  color: blue;
+>>>>>>> 4007e99 (change the color of p)
 }
